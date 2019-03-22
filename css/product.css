@@ -1,0 +1,50 @@
+.box{
+    width:1000px;
+    height:700px;
+    border:1px solid gray;
+}
+.txt{
+    color: #666666;
+    font-size:15px;
+    list-style-type: disc;
+    line-height:30px;
+    border-bottom:1px dashed darkgray;
+}
+.date{
+    float: right;
+    color: #666666;
+    margin-right:50px;
+}
+.txt:hover{
+    color: red;
+}
+.shang{
+    width:40px;
+    height:20px;
+    font-size:small;
+    border:1px solid grey;
+    margin-left:30px;
+    text-align: center;
+    color: grey;
+    float: left;
+    margin-top:15px;
+}
+.xia{
+    width:40px;
+    height:20px;
+    font-size:small;
+    border:1px solid grey;
+    margin-left:100px;
+    text-align: center;
+    color: grey;
+    float: left;
+    margin-top:15px;
+}
+.shang:hover{
+    color: orange;
+    background-color:snow;
+}
+.xia:hover{
+    color: orange;
+    background-color:snow;
+}
